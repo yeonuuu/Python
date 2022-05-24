@@ -13,5 +13,3 @@ cv2.imshow("Over the Clouds - blur", dst)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-print('blah')
